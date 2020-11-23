@@ -1,0 +1,252 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.11.22)  22 NOV 2020 16:52
+entering extended mode
+**./requerimientos.tex
+(requerimientos.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count176
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1067.
+
+("C:\Program Files\MiKTeX\tex/generic/babel\nil.ldf"
+Language: nil 2020/06/10 3.45 Nil language
+\l@nil=\language80
+))
+("C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box45
+)
+
+LaTeX Warning: Unused global option(s):
+    [80pt].
+
+(requerimientos.aux)
+\openout1 = `requerimientos.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
+5.
+ ("C:\Program Files\MiKTeX\tex/latex/base\t1cmss.fd"
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[1
+
+{C:/Users/Administrator/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 46.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\T1/cmr/m/n/10 Planteamiento de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\T1/cmr/m/n/10 estructura inicial del
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]\T1/cmr/m/n/10 Agregacion de los
+ []
+
+
+Overfull \hbox (48.0pt too wide) in paragraph at lines 46--55
+ [][] 
+ []
+
+[1] (requerimientos.toc)
+\tf@toc=\write3
+\openout3 = `requerimientos.toc'.
+
+ [2]
+Overfull \hbox (28.93646pt too wide) in paragraph at lines 65--70
+\T1/cmr/m/n/10 Este presente documento se elaboro con fines academicos para def
+inir los requerimientos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+
+ []
+
+
+Overfull \hbox (12.64767pt too wide) in paragraph at lines 65--70
+\T1/cmr/m/n/10 Generar un prototipo de una Calculadora que calcule el IMC brind
+ando informacion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+
+Overfull \hbox (9.7953pt too wide) in paragraph at lines 73--79
+\T1/cmr/bx/n/10 TypeScrip: \T1/cmr/m/n/10 Es un lenguaje de programación libre 
+y de código abierto desarrollado
+ []
+
+
+Overfull \hbox (5.93283pt too wide) in paragraph at lines 73--79
+\T1/cmr/m/n/10 y mantenido por Microsoft. Es un superconjunto de JavaScript, qu
+e esencialmente
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+[3]
+Overfull \hbox (32.69168pt too wide) in paragraph at lines 91--92
+[]\T1/cmr/m/n/10 Publicarla en el Servidores de Testing y Producción ya funcion
+ando correctamente. 
+ []
+
+
+Overfull \hbox (0.99884pt too wide) in paragraph at lines 102--104
+\T1/cmr/m/n/10 Esta calculadora le permitira al usuario informarse de forma ind
+irecta la cantidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+[4]
+Overfull \hbox (13.9679pt too wide) in paragraph at lines 109--110
+\T1/cmr/m/n/10 Un requisito funcional define una función del sistema de softwar
+e o sus componentes.
+ []
+
+
+Overfull \hbox (7.44785pt too wide) in paragraph at lines 113--114
+[]\T1/cmr/m/n/10 El sistema debe permitir que el usuario Ingrese los parametros
+ Estatura(cm),
+ []
+
+
+Overfull \hbox (2.44907pt too wide) in paragraph at lines 125--126
+[]\T1/cmr/m/n/10 Implementar Kanban automatizados para la administración del re
+positorio. 
+ []
+
+[5] (requerimientos.aux) ) 
+Here is how much of TeX's memory you used:
+ 1377 strings out of 480790
+ 19429 string characters out of 2907030
+ 266555 words of memory out of 3000000
+ 17426 multiletter control sequences out of 15000+200000
+ 538825 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,9n,20p,537b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Administrator\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Administrator\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Administrator\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\
+Administrator\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
+pk> <C:\Users\Administrator\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\tcrm1000.pk> <C:\Users\Administrator\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecss1440.pk> <C:\Users\Administrator\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Administrator\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk>
+Output written on requerimientos.pdf (6 pages, 89406 bytes).
+PDF statistics:
+ 285 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

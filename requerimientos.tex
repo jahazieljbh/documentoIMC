@@ -1,0 +1,130 @@
+\documentclass[80pt]{article}
+\usepackage{babel}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[utf8]{inputenc} % Puede depender del sistema o editor
+\usepackage{enumerate}
+
+
+\begin{document}
+
+\begin{titlepage}
+	\begin{center}
+	{\textbf{Universidad Veracruzana}}\\
+	\vspace{0.3cm}  
+	{\textbf{{Facultad de Negocios y Tecnologias} }}\\
+	\vspace{1cm}	
+	{\Large {Proyecto de Calculadora IMC}}\\
+	\vspace{1cm}	
+	{\Large {501 - Ingeniería de software}}\\
+	\vspace{1cm}
+	{\Large {EE - Pruebas de software}}\\
+	\vspace{1cm}
+	{\Large {Catedratico: Centeno Tellez Adolfo}}\\
+    \vspace{1cm}
+	\textsf{\Large Integrantes: \\}
+	\begin{itemize}
+		\centering
+		\vspace{0.5cm}
+    	\item Basilio Hernandez Jahaziel.
+    	\centering
+    	\vspace{0.5cm}
+    	\item Hernandez Sanchez Jesus Gabriel.
+    	\centering
+    	\vspace{0.5cm}
+    	\item Perez Castro David.
+	\end{itemize}
+	\vspace{1cm}
+	\textsf{\ Fecha de Entrega: 24 de Noviembre del 2020 \\}
+	\end{center}
+\end{titlepage}
+\newpage
+
+\vspace{0.5 cm}
+\begin{table}[h!]
+\centering
+\begin{tabular}{|p{0.35\linewidth}|p{0.15\linewidth}|p{0.35\linewidth}|p{0.15\linewidth}|}
+\hline
+\textbf{Nombre}&\textbf{Fecha}&\textbf{Razón del cambio}&\textbf{Versión}
+\\\hline
+Basilio Hernandez Jahaziel & 21/11/2020 & Revisión inicial & v0.1 \\\hline
+Basilio Hernandez Jahaziel & 21/11/2020 & Planteamiento de la estructura inicial del documento & v0.2 \\\hline
+Basilio Hernandez Jahaziel & 22/11/2020 & Agregacion de los requerimientos del sistema & v0.3 \\\hline
+Basilio Hernandez Jahaziel & 22/11/2020 & Modificaciones & v1.0 \\\hline
+\end{tabular}
+\end{table}
+\newpage
+
+\tableofcontents
+\newpage
+
+\section{Introducción}
+
+\subsection{Propósito}
+\vspace{0.5 cm}
+Este presente documento se elaboro con fines academicos para definir los requerimientos de este proyecto que basicamente es una Calculadora de IMC, usandola como uno de varios indicadores para evaluar el estado nutricional de un usuario.\\\\
+Para el desarrollo pusimos a prueba los conocimientos que hemos obtenido en las E.E (Experiencias Educativas) de Administración de Proyectos de Software y Pruebas de Software.\\\\
+Generar un prototipo de una Calculadora que calcule el IMC brindando informacion nutricional con la herramienta Angular.
+Hacer que un usuario puedan ver la categoria actual en la que se encuentra su salud de su cuerpo mostrando algunos datos relevantes en tablas.\\\\
+Realizar Validaciones de los datos que ingrese el usuario al intentar calcular su IMC.
+
+\subsection{Definiciones y Recursos}
+\vspace{0.5 cm}
+\textbf {IMC:} Se refiere al Índice de Masa Corporal.\\\\
+\textbf {Angular:} Angular es un framework Javascript potente, muy adecuado para el desarrollo de aplicaciones frontend modernas, de complejidad media o elevada.\\\\
+\textbf {TypeScrip:} Es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases.\\\\
+\textbf {HTML:} Es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet. Se trata de las siglas que corresponden a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto.\\\\
+\textbf {CSS:} Es un lenguaje de hojas de estilos creado para controlar el aspecto o presentación de los documentos electrónicos definidos con HTML.\\\\
+\textbf {GitHub:} Es un sistema de gestión de proyectos y control de versiones de código, así como una plataforma de red social diseñada para desarrolladores.
+
+\subsection{Alcance del Proyecto:}
+Desarrollar una Calculadora IMC funcional, entendible o consumible para los distintos usuarios que hagan uso regular de esta, aplicado y haciendo uso de los conocimientos de la E.E Pruebas de Software a un nivel teorico, tener creando un repositorio en GitHub donde se localizara el proyecto y definiran las pruebas unitarias para cada issue que vayan a ser codificadas.
+
+\subsubsection{Puntos importantes para el alcance:}
+\begin{itemize}
+    \item Diseño completo de la Calculadora.
+    \item Implementar el modelo Git Branching Model.
+    \item Funcionabilidad de los requerimientos establecidos.
+    \item Issues definiendo sus pruebas y mockup solo si aplica.
+    \item Realización de Prueba de cada componente y modulo.
+    \item Alcanzar un code-coverage del proyecto en un 100 en cuanto a las pruebas unitarias codificadas.
+    \item Publicarla en el Servidores de Testing y Producción ya funcionando correctamente.
+    \item Fecha de Entrega limite el día 23/11/2020.
+\end{itemize}
+
+\section{Descripción General}
+\subsection{Descripción}
+\vspace{0.5 cm}
+El proyecto esta contemplado para mostrar distintos resultados de diagnosticos, por lo cual el sistema consiste en mostrar una interfaz grafica al usuario final donde le muestre 4 entradas requeridas que son la Estatura, Peso, Edad, selecion de Genero,  y un Resultado como salida la cual mostrara el IMC, Diagnostico y una tabla dependiendo del genero en el proyecto final de la calculadora que tenga una un boton con la funcionalidad calcular, por lo cual se espera una experiencia buena para el usuario final. 
+
+\subsection{Objetivo:}
+\vspace{0.5 cm}
+Esta calculadora le permitira al usuario informarse de forma indirecta la cantidad de masa grasa total y conocer si tienes un peso adecuado.\\\\
+Esta calculadora proporciona el IMC y la correspondiente categoría de nivel de peso según el IMC. Utilícela para adultos de 20 años o más. Para niños y adolescentes, de 10 a 19 años.
+\newpage
+
+\section{Requisitos}
+\subsection{Requerimientos Funcionales}
+\vspace{0.5 cm}
+Un requisito funcional define una función del sistema de software o sus componentes. Una función es descrita como un conjunto de entradas, comportamientos y salidas.
+\begin{itemize}
+    \item Se podrá acceder al sistema desde algún navegador.
+    \item El usuario podrá acceder desde cual quier sistema operativo. 
+    \item El sistema debe permitir que el usuario Ingrese los parametros Estatura(cm), Peso(kg), Edad y Genero.
+    \item El sistema debe permitir la consulta del resultado con los datos que ingreso.
+    \item El sistema deberá generar un diagnostico del usuario.
+\end{itemize}
+
+\subsection{Requerimientos No Funcionales}
+\vspace{0.5 cm}
+Un requisito no funcional o atributo de calidad es, un requisito que sabe bien y especifica criterios que pueden usarse para juzgar la operación de un sistema, a continuación, se presentan. 
+\begin{itemize}
+    \item El sistema necesita internet para su correcto funcionamiento.
+    \item Interfaz intuitiva y completa para el fácil entendimiento. 
+    \item Tiempo para mostrar la información en el mapa no mayor a 45 segundos.
+    \item Implementar Kanban automatizados para la administración del repositorio.
+    \item Revisiones para cada pull request.
+\end{itemize}
+\newpage
+
+\end{document}
